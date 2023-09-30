@@ -1,2 +1,2 @@
 # Housepriceprediction
-ML project on house price prediction using logistic regression
+ML project on house price prediction using linear regression
